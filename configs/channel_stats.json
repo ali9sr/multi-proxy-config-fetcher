@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-05T03:34:42.710905",
+  "timestamp": "2025-09-05T04:24:55.394243",
   "channels": [
     {
       "url": "https://t.me/s/vpnfail_v2ray",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 16,
         "unique_configs": 16,
-        "avg_response_time": 0.51,
+        "avg_response_time": 0.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.24,
-        "last_success": "2025-09-05T03:34:42.710194",
+        "overall_score": 94.25,
+        "last_success": "2025-09-05T04:24:55.393514",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
