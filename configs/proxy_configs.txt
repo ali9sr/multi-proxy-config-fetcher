@@ -36,7 +36,5 @@ vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.21.64.250:2053?allowInsecure=1&
 
 vmess://eyJhZGQiOiI2NS4yMS4xNDUuMTIyIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJpZCI6ImNkMTNhZTU1LWZlY2EtNDU3Yy05ODhlLThkYmE1NmZlMDA2ZiIsIm5ldCI6InRjcCIsInBvcnQiOjUzNDQyLCJwcyI6IlZQTm5vYm9keS00MzgiLCJzY3kiOiJhdXRvIiwic25pIjoid3d3Lm1pY3Jvc29mdC5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
-vmess://eyJhZGQiOiJzdGFyLnJlYXRhLmlyIiwiaWQiOiJkYzllZTBlOC0zNGEzLTRkOGEtYmE5Ny1jYzhhMGI0MTJjODMiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoyOTM5MCwicHMiOiJmaWxlbWJhZC00MzkiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#filembad-13  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
