@@ -4,8 +4,6 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-vless://0275db2c-f518-43bd-ac3b-1f89bc4fbbd8@213.177.176.182:8081?security=none&encryption=none&headerType=none&type=tcp#ProxyMtpVPN-24  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
-
 vless://0aafdfde-1157-42f7-80cc-aca7c1dff7b1@snapp.ir:80?path=%2F&security=none&encryption=none&host=ar.liarashop.ir&type=ws#filembad-47  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://0b2fe47a-f51c-4e00-85ba-eeae70addc80@217.25.56.173:443?security=&encryption=none&headerType=none&type=tcp#NetMeli9-48  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
