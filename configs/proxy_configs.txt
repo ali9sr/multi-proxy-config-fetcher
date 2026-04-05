@@ -34,8 +34,6 @@ vless://ecefb91e-48fd-4169-92ce-16c2bbb50e11@193.151.151.44:8011?mode=auto&secur
 
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.21.64.250:2053?allowInsecure=1&encryption=none&host=INDEX.Arcane509.Workers.DEV&path=%2Fassets&security=tls&sni=INDEX.Arcane509.Workers.DEV&type=ws#filembad-405  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://f0bf5f3a-ecc8-4c57-b565-32fab595e4dd@vortex.mytopmedia.pro:100?security=none&encryption=none&headerType=none&type=tcp#filembad-401  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
-
 vmess://eyJhZGQiOiI2NS4yMS4xNDUuMTIyIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJpZCI6ImNkMTNhZTU1LWZlY2EtNDU3Yy05ODhlLThkYmE1NmZlMDA2ZiIsIm5ldCI6InRjcCIsInBvcnQiOjUzNDQyLCJwcyI6IlZQTm5vYm9keS00MzgiLCJzY3kiOiJhdXRvIiwic25pIjoid3d3Lm1pY3Jvc29mdC5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiJzdGFyLnJlYXRhLmlyIiwiaWQiOiJkYzllZTBlOC0zNGEzLTRkOGEtYmE5Ny1jYzhhMGI0MTJjODMiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoyOTM5MCwicHMiOiJmaWxlbWJhZC00MzkiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
