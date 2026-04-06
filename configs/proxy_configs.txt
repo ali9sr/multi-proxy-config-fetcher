@@ -20,8 +20,6 @@ vless://8d4b9b9b-a20f-4ae0-b5fb-1651201a0620@94.184.10.119:1010?security=&encryp
 
 vless://bc953469-14e8-4536-afbd-56dc8edf138a@194.59.215.131:672?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#filembad-319  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://d5f620c2-c10a-49c5-b3f7-a49cedd0ed26@q.gostargate.top:8080?security=none&encryption=none&headerType=none&type=tcp#NetMeli9-357  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
-
 vless://dd3fa5dc-005b-4dd6-95ea-990584823d89@snapp.ir:80?path=%2F&security=none&encryption=none&host=ar.liarashop.ir&type=ws#filembad-371  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://e8b5cd16-19e2-4f1d-b531-3d7bfeb21aff@ali.p40.site:44038/?type=tcp&encryption=none&security=none#filembad-387  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
