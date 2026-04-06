@@ -12,8 +12,6 @@ vless://3816f0b2-692f-4ced-bbfe-e903d3946d9c@f1.springpaatogh8.store:8443?path=%
 
 vless://4ca14b7d-7719-4756-df72-905e9cf37a73@3.71.78.215:443?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-151  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://64d55326-fb18-4a17-8b96-d88fc091db42@185.143.233.5:80?path=%2Fapi%2Fv2&security=none&encryption=none&host=t.afaghqi.ir&type=ws#ProxyMtpVPN-182  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
-
 vless://6a5e52bd-c308-49e8-aab7-b1ce9b32e58b@94.182.103.8:8070?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#canfingV2rayNG-188  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://8d4b9b9b-a20f-4ae0-b5fb-1651201a0620@94.184.10.119:1010?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-247  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
