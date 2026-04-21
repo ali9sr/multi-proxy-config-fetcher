@@ -6,19 +6,15 @@
 
 vless://056285d5-9dde-fdc4-106c-a89110082276@tr.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.188#filembad-35  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://1d509c22-4e43-4067-9185-873ec5bb49da@nl1.b762plus.shop:2022?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#canfingV2rayNG-74  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+vless://1d509c22-4e43-4067-9185-873ec5bb49da@ch1.b762plus.shop:2085?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#canfingV2rayNG-74  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=pabloping&security=&encryption=none&host=atus.pabloping.pro&type=xhttp#canfingV2rayNG-90  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://2757be66-746a-4c1b-bb70-0327a19d9519@post.exitping.store:433?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=post.exitping.store&type=tcp#filembad-109  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://33b8d629-9b85-40f4-8320-cb39bd608d6d@185.143.233.235:80?path=%2Fback&security=none&encryption=none&host=s101.tireks.site&type=httpupgrade#filembad-125  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
-
 vless://3ef7131a-224f-4f28-9b9b-3517b75f28b3@vip.gxnetshop.ir:6000?security=none&encryption=none&headerType=none&type=tcp#NormanV2ray-141  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://48e3ec8d-44ce-4542-aa4d-a48573e0d423@94.184.24.235:56001?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-156  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
-
-vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?security=&encryption=none&host=V2RRVIP&headerType=http&type=tcp#canfingV2rayNG-213  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+vless://80fd6987-1a0f-4893-815b-0ee70b8e75ec@5.57.37.64:28009?type=tcp&encryption=none&security=none#filembad-224  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://9ddbe9f3-41e8-463a-8b31-01ebed0e771a@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=mail.frontendev.ir&path=/#NetMeli9-269  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
@@ -26,11 +22,15 @@ vless://a25233a1-b8e7-48a8-a012-27834248ade7@51.250.9.25:7443?security=reality&e
 
 vless://a5dcba0c-78ce-4108-b545-bca2092bbee3@62.60.197.67:4090?path=%2Fwss%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=c1.semnanse.sbs&fp=chrome&type=ws&allowInsecure=0&sni=c1.semnanse.sbs#NetMeli9-284  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
+vless://def615c2-97dc-4fe8-99f4-ad997cefee78@185.143.234.200:8080?type=ws&host=gatwat.miox-12qn.houselife.ir&path=index.html&security=none#filembad-340  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+
 vless://f02a08c2-f157-42c9-bdd6-74f6e2e5e8ef@fast2.mrsf.ir:443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=PAS1.gLobAl.sSl.Fastly.nEt&fp=firefox&type=xhttp&allowInsecure=1&sni=mikishop.xyz#canfingV2rayNG-376  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.118:9000?security=&encryption=none&headerType=http&type=tcp#canfingV2rayNG-388  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://fecdbda8-69b2-449a-b8d5-e798ff1c1e6d@fs.cedriklorenz.ir:443?security=tls&encryption=none&insecure=1&host=ukamanaji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#canfingV2rayNG-392  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+
+trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#filembad-26  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vmess://eyJhZGQiOiJtZWhpLmlhbW1laHJhYi5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzQ2MDliMGYtNmNlMC00ZWZiLWE5YTktYzAwYTgyNWUzNTY1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNjgwIiwicHMiOiJOb3JtYW5WMnJheS0zOTkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
