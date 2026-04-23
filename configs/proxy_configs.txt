@@ -6,33 +6,29 @@
 
 vless://0275db2c-f518-43bd-ac3b-1f89bc4fbbd8@213.177.176.182:8081?security=none&encryption=none&headerType=none&type=tcp#ProxyMtpVPN-22  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://0792cb1b-214b-48cd-d1ee-7750ff1e8cd7@3.72.76.6:35301?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-31  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
-
-vless://0a4c5a85-7089-446d-a817-26212ff67ed6@vix.nsa03.com:9000?security=none&encryption=none&headerType=none&type=tcp#ProxyMtpVPN-36  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
-
 vless://1768c71a-27d9-4a01-a1e8-5888e4ff0319@vpn.ulteracrypto.site:34303?type=tcp&encryption=none&security=none#filembad-46  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://3c852590-49d8-d3c3-abbf-a3c64ad89cd2@tr.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.188#filembad-109  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+vless://1d509c22-4e43-4067-9185-873ec5bb49da@ch1.b762plus.shop:2085?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#canfingV2rayNG-46  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.117.111:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=&fp=chrome&type=tcp&sni=wcs.adobe.com#filembad-101  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://48965d19-bbe3-46b0-a6bc-d9b7036719e0@snapp.ir:80?path=%2FRICH&security=none&encryption=none&host=rich.cafeservers.ir&type=ws#filembad-117  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
-
-vless://4dc0b42a-1a8a-4337-851b-5d8a1f149fca@172.64.152.23:8443?path=%2F&security=tls&encryption=none&insecure=0&host=deold.turboo-server.com.co&fp=chrome&type=ws&allowInsecure=0&sni=deold.turboo-server.com.co#LoopLine_Ir-124  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.7.73:443?&security=tls&sni=sni.111000.v6.rocks&type=ws&headerType=none&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#filembad-140  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?security=&encryption=none&headerType=http&type=tcp#canfingV2rayNG-168  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://75851373-9166-4413-bcb4-e995135ca3ce@dlbazi1.ketakhan.sbs:8443?security=tls&encryption=none&insecure=0&host=my.d-service.sbs&type=ws&allowInsecure=0&sni=my.d-service.sbs#canfingV2rayNG-176  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+vless://72cc064f-32ed-4069-9d93-5adc780de344@vpn.ulteracrypto.site:34303?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#filembad-148  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://7b471aa5-9344-4567-96a9-82bec6427f85@3.70.155.22:443?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-187  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
-
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-um2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-um2.netsnap.ir.#canfingV2rayNG-237  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
-
-vless://c805b05e-339d-40e0-8787-432d97a27345@ip-data.turkserver.ir:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-um2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-um2.netsnap.ir.#canfingV2rayNG-256  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://d230f0f7-6826-4f8e-8dbb-69ee2c837358@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh1.salonemojallal.ir.#filembad-274  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://e3bef281-40e6-4e5d-9e25-b1d861e6c043@217.60.238.167:8083?security=&encryption=none&headerType=http&type=tcp#canfingV2rayNG-290  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
+vless://fecdbda8-69b2-449a-b8d5-e798ff1c1e6d@fs.cedriklorenz.ir:443?security=tls&encryption=none&insecure=1&host=ukamanaji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#canfingV2rayNG-300  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+
 vless://ffa37367-6313-4cc5-86bd-3d8dc879c24e@snapp.ir:80?path=%2F&security=none&encryption=none&host=ar.liarashop.ir&type=ws#canfingV2rayNG-330  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080#filembad-13  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
