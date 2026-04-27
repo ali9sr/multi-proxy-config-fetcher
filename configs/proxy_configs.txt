@@ -4,27 +4,33 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-vless://1d509c22-4e43-4067-9185-873ec5bb49da@de1.b762plus.shop:2013?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#canfingV2rayNG-54  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+vless://11a6d832-cac8-4ce4-a2f9-f0e87c4b6e35@shopcenter.lumavision.ir:8080?security=none&type=ws&headerType=&path=%2Fgraphql%3Fed%3D8080&host=shopcenter.lumavision.ir#ProxyMtpVPN-29  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://75851373-9166-4413-bcb4-e995135ca3ce@dlbazi3.ketakhan.sbs:8443?security=tls&encryption=none&insecure=0&host=my.d-service.sbs&type=ws&allowInsecure=0&sni=my.d-service.sbs#canfingV2rayNG-180  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+vless://1d509c22-4e43-4067-9185-873ec5bb49da@de1.b762plus.shop:2013?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#canfingV2rayNG-49  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.126.92.224:443?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-209  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=pabloping&security=&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#canfingV2rayNG-67  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+
+vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=proxy.rahmancloud.ir#canfingV2rayNG-166  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+
+vless://7b427b3c-9747-4f14-9a9d-dd431f743aec@sr3.niloo.shop:2082?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-186  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+
+vless://7b471aa5-9344-4567-96a9-82bec6427f85@3.70.155.22:443?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-188  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+
+vless://7b471aa5-9344-4567-96a9-82bec6427f85@3.70.155.22:443?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-189  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://a3b1d134-e3d8-45ab-9996-a3800be0fcdc@185.143.234.235:8080/?type=ws&encryption=none&host=vip.az99x.info&path=%2F#NormanV2ray-241  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://a818d89a-7230-4b78-85a5-a9ae5c49e146@dzvl2pxz.darkube.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=dzvl2pxz.darkube.ir&fp=chrome&type=ws&allowInsecure=1&sni=dzvl2pxz.darkube.ir#filembad-261  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+vless://be0bff33-a095-4f82-9edb-9073c3ba08af@arvan1.un1ty.ir:80?encryption=none&host=&path=%2Fjesuschrist&security=none&type=ws#NetMeli9-268  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?path=%2F&security=tls&encryption=none&type=ws&sni=webassets.cafebazaar.ir#LoopLine_Ir-355  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=vercel.com#filembad-273  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.91:9000?security=&encryption=none&headerType=http&type=tcp#canfingV2rayNG-343  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@104.17.111.184:443?encryption=none&type=ws&security=tls&path=%2F&host=zh.hollowspot.ir&sni=zh.hollowspot.ir&alpn=http%2F1.1&allowInsecure=1&flow=xtls-rprx-vision#LoopLine_Ir-289  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://fed07182-fa9e-490b-ac15-2f64e1ee21ab@anten.ir:80?path=/&security=none&encryption=none&host=ss.linuwebtunnel.site&type=ws#filembad-345  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+vless://d077cd35-4410-4aea-f9ef-5cd0310a742d@18.157.165.161:17083?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-291  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-trojan://1234567890@142.93.102.20:443?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#filembad-14  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?encryption=none&type=ws&security=tls&path=%2F&sni=webassets.cafebazaar.ir&allowInsecure=1#NetMeli9-341  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#NormanV2ray-18  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiTG9vcExpbmVfSXItMzcwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiUHJveHlNdHBWUE4tMzU4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiUHJveHlNdHBWUE4tMzczIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJ2MTEubWFpbGlyYW4ubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgyNTdiMzFlLTA4MDUtNGYyOC05MjA5LTI1MWI3MmI5YTU5MyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTE5OTkiLCJwcyI6IlByb3h5TXRwVlBOLTM4NyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 
