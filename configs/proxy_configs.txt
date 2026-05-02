@@ -4,11 +4,7 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-vless://042bcb1f-23dd-4ae9-9dc0-e301f89a5359@193.151.143.138:201?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-20  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
-
 vless://0bbdd35b-d7b5-42df-b93d-140ec600a3dc@185.228.236.226:80?encryption=none&type=ws&path=%2Fpreply&host=app.gplance.com#filembad-33  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
-
-vless://0d1c3cee-2952-4a3e-a03e-fbe99d32dc72@de22.fastplus7.site:2086?type=ws&encryption=none&path=%2F&host=de21.fastplus11.ir&security=none#canfingV2rayNG-38  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://1d509c22-4e43-4067-9185-873ec5bb49da@de4.b762plus.shop:2017?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#canfingV2rayNG-58  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
@@ -18,13 +14,17 @@ vless://80bace8b-bdf4-495f-b8a3-a2377f64a19e@f1.springpaatogh8.store:8443?path=%
 
 vless://8109d4a8-7466-4fa3-fd1a-968880548bc5@193.58.119.134:443?security=&encryption=none&host=google.com&headerType=http&type=tcp#canfingV2rayNG-215  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
+vless://8a60fc9e-c867-480d-8044-e577310bfc93@193.58.119.134:443?security=&encryption=none&host=google.com&headerType=http&type=tcp#canfingV2rayNG-220  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+
 vless://e8e1e1fc-83e6-4de3-9e08-7d77521e67b4@cf.comecloud.ir:443?path=%2Ftest%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Clu.servert1op.ir&fp=chrome&type=ws&sni=Clu.servert1op.ir#LoopLine_Ir-353  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://ea6d8aae-4ccb-4f9a-afdc-1abf53860930@94.183.149.237:8080?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-353  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiTmV0TWVsaTktNDEwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
+vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiUHJveHlNdHBWUE4tMzg4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiUHJveHlNdHBWUE4tNDEwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-vmess://eyJhZGQiOiJ2MTEubWFpbGlyYW4ubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgyNTdiMzFlLTA4MDUtNGYyOC05MjA5LTI1MWI3MmI5YTU5MyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTE5OTkiLCJwcyI6IlByb3h5TXRwVlBOLTQwOSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJ2MTEubWFpbGlyYW4ubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgyNTdiMzFlLTA4MDUtNGYyOC05MjA5LTI1MWI3MmI5YTU5MyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTE5OTkiLCJwcyI6IlByb3h5TXRwVlBOLTM5NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 
