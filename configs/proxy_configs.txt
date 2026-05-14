@@ -4,31 +4,35 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:2053?path=%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#canfingV2rayNG-33  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+vless://09ece0f4-b156-4b57-88b9-881c80451cc6@tamin.ir:80?encryption=none&security=none&fp=chrome&type=ws&host=d42.y106.ir&path=%2Fir#filembad-27  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://1ea92475-4ea3-48b5-a307-d9fa6e9a11e1@ip-data.turkserver.ir:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-um2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-um2.netsnap.ir.#canfingV2rayNG-55  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+vless://1edac00c-70b7-4403-8990-8de4018f34c1@45.82.138.50:9021?type=tcp&security=none&encryption=none#filembad-63  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=pabloping&security=&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#canfingV2rayNG-68  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=pabloping&security=&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#canfingV2rayNG-72  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://28e56f39-cdb4-44a0-a84d-c3a2a92fed00@snapp.ir:80?path=%2F&security=none&encryption=none&host=cdn2.softnetconnect.ir&type=ws#filembad-84  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
-
-vless://2d2c29fd-ed07-43ee-9514-e62f1645fb6c@du.mobileemdad.top:42542?security=&encryption=none&host=du.mobileemdad.top&headerType=http&type=tcp#canfingV2rayNG-88  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
-
 vless://342fe675-32ee-4242-8df9-be1a1b105c82@185.24.253.107:443?encryption=none&type=xhttp&security=tls&path=%2F&host=cdn.gapfilm.org&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&sni=cdn.gapfilm.org&fp=chrome&allowInsecure=1#filembad-114  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://44de73bc-eb6d-429d-9c2f-ec0a6e4a6681@my.configfast.site:4013?security=none&encryption=none&host=bale.ai%2Cweb.splus.ir%2Cigap.net&headerType=http&type=tcp#canfingV2rayNG-116  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
+vless://48e3ec8d-44ce-4542-aa4d-a48573e0d423@94.184.24.235:56001?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-134  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+
 vless://6f0c5d67-d578-cff6-e1e5-24fe764f0f81@fn.iprooz.com:443?security=tls&type=ws&headerType=&encryption=none&path=%2Flw&host=f.iprooz.com&sni=f.iprooz.com&fp=#filembad-173  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://92e36f34-11f1-4312-9fda-af253712d09a@snapp.ir:8080?path=%2F&security=none&encryption=none&host=M2.snllshop.ir&type=ws#filembad-201  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+vless://75bb0d63-2b70-49d9-8b6a-952add3e21c5@185.143.233.122:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#filembad-183  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://Troll_hastam@94.130.50.12:443?encryption=none&security=tls&sni=jobset.sigs.k8s.io&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=admirable-ganache-2a9f09.netlify.app&path=%2FTroll_hastam&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22AhmadiNEJAD%20DOT%20COM%22%7D%7D#filembad-216  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+vless://921a709f-cd16-41df-96f4-e397e333e892@varzesh3.com:80?path=%2F&security=none&encryption=none&host=proto.helexm.ir&type=ws#filembad-197  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://Troll_hastam@94.130.50.12:443?encryption=none&security=tls&sni=vuejs.org&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=admirable-ganache-2a9f09.netlify.app&path=%2FTroll_hastam&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22AhmadiNEJAD%20DOT%20COM%22%7D%7D#filembad-218  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+vless://9a887970-9742-48fd-ee77-57735bdc1d49@3.123.20.181:443?security=&encryption=none&headerType=&type=tcp#canfingV2rayNG-205  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+
+vless://Troll_hastam@138.201.54.122:443?encryption=none&security=tls&sni=vuejs.org&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=hilarious-capybara-6accb7.netlify.app&path=%2FTroll_hastam&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22AhmadiNEJAD%20DOT%20COM%22%7D%7D#filembad-215  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+
+vless://a2b5ed44-6d39-4a41-97e1-c643508d73d9@cf.mtpmio.com:2053?path=api%3Fed%3D1024&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=api.mtpmio.com&fp=firefox&type=ws&allowInsecure=0&sni=api.mtpmio.com#canfingV2rayNG-213  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://b18e77d8-ee75-4301-9b2f-72f94f1b992e@ls.irfallen.shop:2083?encryption=none&type=xhttp&mode=auto&security=none#filembad-263  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+
+vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiUHJveHlNdHBWUE4tMzQyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiUHJveHlNdHBWUE4tMzYyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
