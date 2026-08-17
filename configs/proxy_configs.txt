@@ -18,6 +18,8 @@ vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&se
 
 vless://bbc5db9e-feba-42ec-a845-d120bdd0ee4f@176.65.151.215:80?path=%2F&security=none&encryption=none&type=ws#filembad-373  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.151.72:22222?security=none&encryption=none&headerType=none&type=tcp#ProxyMtpVPN-449  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22224?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-452  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://ee71862e-816b-4d26-97d2-f200898e385d@212.118.40.187:443?security=reality&encryption=none&pbk=MfOXevYFoqnwIn6dUiPZvWYRfYHyb5lzBy3R1OSsrWg&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.cisco.com&sid=f3e8b2b1#filembad-473  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
@@ -29,6 +31,4 @@ trojan://Telegram_healer_config@188.114.97.3:443?Telegram=@GozargahAzad,@Gozarga
 trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#v2ray_configs_pool-69  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vmess://eyJhZGQiOiIxNTYuMjQ1LjIzMi4yMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjE1ZTQ4MWQtMTdlNC00MWE4LTg0YzItMjNkNGYwNTE0ZDlhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIzNTA0MyIsInBzIjoiZmlsZW1iYWQtNDk2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuRnFEVkdXdkJvd0V3R3Ra@20.87.211.186:443#filembad-19  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
