@@ -10,6 +10,8 @@ vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security
 
 vless://37759a91-6fba-4816-8e7e-baae8f812313@mahdroo.ir:443?path=%2F&security=tls&encryption=mlkem768x25519plus.native.0rtt.inAciB3I53AnkMDoEg-e2KjU3YxOk0_5B71RhhgIv2k&insecure=1&host=arvan2.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=1&sni=arvan2.dearhossein-taktaz.ir#ProxyMtpVPN-146  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
+vless://73e08fcb-a0c7-45d0-b55d-f78c903c64a6@dl4.gooniforoshi.fun:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=dl4.gooniforoshi.fun&type=ws&allowInsecure=0&sni=dl4.gooniforoshi.fun#canfingV2rayNG-222  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+
 vless://ac502822-5b7a-40cd-8d79-a786b4c0f629@coral-grove-8a62.golden-robin-b352.workers.dev:443?path=%2F%3Fu%3DTAiTANiCVPN&security=tls&encryption=none&insecure=0&host=coral-grove-8a62.golden-robin-b352.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=coral-grove-8a62.golden-robin-b352.workers.dev#ProxyMtpVPN-330  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@45.8.211.57:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#ProxyMtpVPN-340  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
@@ -24,7 +26,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22224?security=&encryp
 
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#canfingV2rayNG-55  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTWFxbUxKd1dYdGRKUHZwelhEMk1TWWlaclhEd25lcVpiQUVYcVpVdzdSelg3bmRkM3hGTTlDM3U5TmRSWFpQVE5nREJlblBMbjZCNlZyd21vZENTRVFjOFJmdXhCbjg@104.249.22.75:43377#filembad-8  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#ProxyMtpVPN-14  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#ProxyMtpVPN-31  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
