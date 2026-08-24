@@ -6,19 +6,13 @@
 
 vless://00ca2ff9-c6a1-48e2-812d-2b15f7b6c3a5@185.147.26.175:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yt.orpheous.ru&fp=firefox&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&sid=e4aa362b5f9d07d7&type=tcp&headerType=none#filembad-56  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://26bf8edb-8731-4f06-bc01-2cf7fefc29a6@itproxy1.lockdwn.com:443?security=none&encryption=none&type=ws#filembad-132  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
-
-vless://26bf95c1-b78c-40eb-b11e-b38b8962ddb2@188.114.98.44:2095?mode=packet-up&path=%2FMoltivers%3Fed%3D2095&security=none&encryption=none&host=www.digikala.com.www.speedtest.net.savteam2.ip-ddns.coM.&type=xhttp#ProxyMtpVPN-134  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
-
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#canfingV2rayNG-194  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://631ddfb7-2f6b-4ecb-8c07-47062fff7ccb@www.gov.ua:8880?encryption=none&type=ws&host=morning-cell-6297.66-b87.workers.dev&path=/pyip%3DProxyIP.US.CMLiussss.net&packetEncoding=xudp#filembad-230  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
-vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.41:443?path=%2Fproxyip&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#canfingV2rayNG-230  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?security=reality&encryption=none&pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=25425ff6fa#canfingV2rayNG-231  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://a1d262a9-6d57-4ff0-99e4-594782c2ca7c@5.75.207.247:443?security=reality&encryption=none&pbk=AQdYxjoMA0fxO8O9BX5bW4EMfRyiH09K0Hwjwse51AM&headerType=none&fp=chrome&spx=%2FQYP1c9H45RBRVLu&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=f5#canfingV2rayNG-318  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
-
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#canfingV2rayNG-326  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.224:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=savesafe.co&fp=chrome&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&sid=f63805c3ecc7a483&allowinsecure=1&type=tcp&headerType=none#ProxyMtpVPN-360  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
@@ -29,4 +23,8 @@ vless://d205ae68-0819-473c-b425-6c5947ac2f8d@209.127.228.114:443?security=realit
 vless://d890b403-d536-4c32-945c-b46e250492a6@20.199.24.140:443?security=reality&encryption=none&pbk=Lk_uZjr6a6DyLsgh1VasuUCN9G2YdO32u9nFZPgHxSw&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0f5af4a2#canfingV2rayNG-428  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?encryption=none&type=ws&security=tls&path=%2Fsg-melbi&host=hhlfy.twiladaphne.ndjp.net&sni=hhlfy.twiladaphne.ndjp.net&insecure=0&allowInsecure=0#NormanV2ray-466  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+
+vmess://eyJhZGQiOiJwbHVzLmFwYXJhdHJhdGluZm8uaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5hbXpuLmNvbSIsImlkIjoiNDk5ZTM2ZjQtZTc1YS00MjEwLTg1M2YtOGM4NDk3OTBkMjU3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiOTQ0MyIsInBzIjoiUHJveHlNdHBWUE4tNDgzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwidmNuIjoiIn0=
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#ProxyMtpVPN-8  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
