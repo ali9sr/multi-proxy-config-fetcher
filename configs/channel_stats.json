@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-11-13T14:09:31.274815",
+  "timestamp": "2026-11-13T21:15:00.976620",
   "channels": [
     {
       "url": "https://t.me/s/vpnfail_v2ray",
       "enabled": true,
       "metrics": {
-        "total_configs": 19,
-        "valid_configs": 17,
-        "unique_configs": 17,
-        "avg_response_time": 0.76,
+        "total_configs": 18,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.22,
-        "last_success": "2026-11-13T14:09:31.274016",
+        "overall_score": 92.51,
+        "last_success": "2026-11-13T21:15:00.976063",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 6,
-          "vmess://": 4,
-          "ss://": 5,
-          "trojan://": 2,
+          "vless://": 8,
+          "vmess://": 5,
+          "ss://": 0,
+          "trojan://": 0,
           "tuic://": 0
         }
       }
